@@ -2,7 +2,7 @@
 
 ------------
 
-[Imgur](https://imgur.com/XURWU3n)
+![](https://i.imgur.com/XURWU3n.png)
 <!--
 **DiFigue10/DiFigue10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
