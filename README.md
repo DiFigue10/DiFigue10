@@ -1,6 +1,8 @@
-**Hi! I'm Diana 🫱🏻👩🏻‍💻** 
+**Hi! I'm Diana 👩🏻‍💻** 
 
 ------------
+
+![portada](https://imgur.com/XURWU3n)
 <!--
 **DiFigue10/DiFigue10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
