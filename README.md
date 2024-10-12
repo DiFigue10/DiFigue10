@@ -1,9 +1,17 @@
-**Hi! I'm Diana 👩🏻‍💻** 
+# Hi I'm Diana 👩🏻‍💻
 
 ------------
 
-![](https://i.imgur.com/XURWU3n.png)
+![](https://i.imgur.com/RnKtyWG.png)
+
 <!--
+------------
+
+## Languages and tools
+
+
+
+
 **DiFigue10/DiFigue10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
